@@ -35,4 +35,4 @@ console.log(manolo.mascotas)
 console.log(manolo.countMascotas())
 manolo.addBook("El arte de la guerra", "Sun Tzu")
 console.log(manolo.libros)
-manolo.getBookNames()
+manolo.getBookNames();

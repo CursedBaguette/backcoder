@@ -1,0 +1,24 @@
+{
+  "name": "2",
+  "version": "1.0.0",
+  "description": "trabajo",
+  "main": "index.js",
+  "scripts": {
+    "test": "nono",
+    "dev": "nodemon index.js",
+    "node": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CursedBaguette/backcoder.git"
+  },
+  "keywords": [
+    "trabajo"
+  ],
+  "author": "yo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  }
+}

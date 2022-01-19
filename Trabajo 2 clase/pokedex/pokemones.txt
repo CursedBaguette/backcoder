@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Scorbunny",
+    "numero": 813,
+    "entrada": "https://www.pokemon.com/us/pokedex/scorbunny"
+  },
+  {
+    "id": 2,
+    "nombre": "Floatzel",
+    "numero": 419,
+    "entrada": "https://www.pokemon.com/us/pokedex/floatzel"
+  },
+  {
+    "id": 3,
+    "nombre": "Smeargle",
+    "numero": 235,
+    "entrada": "https://www.pokemon.com/us/pokedex/smeargle"
+  }
+]
